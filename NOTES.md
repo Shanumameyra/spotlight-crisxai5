@@ -17,3 +17,8 @@
   X account before 18:35 WIB, then set POST.json to the real post URL, commit + push, then submit.
 - Repo: Shanumameyra/spotlight-crisxai5 (creation hit GitHub rate limit "too many repositories,
   too quickly" at first attempt 11:3x WIB; retrying every 5 min per task instructions)
+  — CREATED 27 Nov 11:45 WIB: https://github.com/Shanumameyra/spotlight-crisxai5
+- Verification (27 Nov ~11:47 WIB, from clean clone of pushed commit):
+  fresh run exit 0, out/POST.json BYTE-IDENTICAL to POST.json; read-only sim exit 0,
+  BYTE-IDENTICAL; LICENSE has SPDX-License-Identifier: MIT; README has 3 linked make.fun badges;
+  About homepage = bounty URL, topic makefun; owner.json wallet matches @rapid-pika-70.
